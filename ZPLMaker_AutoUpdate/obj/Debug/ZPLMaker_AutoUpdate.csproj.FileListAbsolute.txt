@@ -1,0 +1,95 @@
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ZPLMaker_AutoUpdate.exe.config
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ZPLMaker_AutoUpdate.exe
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ZPLMaker_AutoUpdate.pdb
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.frm_SplashScreen.resources
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.Properties.Resources.resources
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csproj.GenerateResource.cache
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.exe.licenses
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csproj.CopyComplete
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.exe
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ZPLMaker_AutoUpdate.exe.config
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ZPLMaker_AutoUpdate.exe
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ZPLMaker_AutoUpdate.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csprojAssemblyReference.cache
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.frm_SplashScreen.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.Properties.Resources.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csproj.GenerateResource.cache
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.exe.licenses
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csproj.CoreCompileInputs.cache
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.csproj.CopyComplete
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.exe
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker_AutoUpdate\obj\Debug\ZPLMaker_AutoUpdate.pdb
