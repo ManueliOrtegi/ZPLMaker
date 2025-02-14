@@ -1,0 +1,385 @@
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\libSkiaSharp.dylib
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\musl-x64\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libSkiaSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm\libSkiaSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.exe.config
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.exe
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.pdb
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\BarcodeStandard.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Label.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Viewer.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\HarfBuzzSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Buffers.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.CodeDom.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Memory.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Json.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.ValueTuple.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.presentation.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.MSXML.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Label.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Viewer.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\HarfBuzzSharp.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.pdb
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Buffers.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.CodeDom.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Memory.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Json.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.ValueTuple.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.presentation.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.AssemblyReference.cache
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe.config
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.frmSS.resources
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.frm_SplashScreen.resources
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.Properties.Resources.resources
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.ZPLMaker.resources
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.GenerateResource.cache
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe.licenses
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.CoreCompileInputs.cache
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.CopyComplete
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.pdb
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.ZPLWizard.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\libSkiaSharp.dylib
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\musl-x64\libHarfBuzzSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\x64\libSkiaSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm\libSkiaSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.exe.config
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.exe
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\BarcodeStandard.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Label.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Viewer.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.BonusSkins.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraWizard.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ExcelDataReader.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\HarfBuzzSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Buffers.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.CodeDom.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Drawing.Common.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Memory.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Json.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.ValueTuple.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.presentation.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.MSXML.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Label.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\BinaryKits.Zpl.Viewer.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.XtraWizard.v17.2.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ExcelDataReader.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ExcelDataReader.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\HarfBuzzSharp.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Buffers.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.CodeDom.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Memory.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Text.Json.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\System.ValueTuple.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\zxing.presentation.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.XtraWizard.v17.2.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe.config
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.frmZPL.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.frmSS.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.frm_SplashScreen.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.Properties.Resources.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.ZPLMaker.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.ZPLWizard.resources
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.GenerateResource.cache
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe.licenses
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.CoreCompileInputs.cache
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.CopyComplete
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.pdb
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.csproj.AssemblyReference.cache
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.exe.manifest
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\bin\Debug\ZPLMaker.application
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.TrustInfo.xml
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.exe.manifest
+C:\Users\032902\Documents\Manny Files\Projects\ZPLMaker\ZPLMaker\obj\Debug\ZPLMaker.application
